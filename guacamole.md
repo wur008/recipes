@@ -4,4 +4,5 @@
 * lime
 * salt
 ## Instructions
-smash avocado and mix all ingredients 
+ smash avocado and mix all ingredients 
+add olive oil 
